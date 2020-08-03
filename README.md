@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 👋 I'm Antony 
+I'm a final year computer science and engineering student based in India, Kerala specializing in developing (and occasionally designing :wink: ) exceptional Cross-Platform applications, Google Action applications, and everything in between. also interested in Ethical Hacking, Blockchain, Artificial Intelligence.
 
-<!--
-**antonyjm462/antonyjm462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Javascript Microservices Architecture
+- 🌱 I’m currently learning Deep Learning
+- 💬 Ask me about: 
+Programming And Markup Languages: 
+* Python
+* C 
+* JavaScript 
+* TypeScript
+* Java 
+* HTML
+* CSS
+* PHP
+Database:
+* MySql/MariaDB 
+* MongoDB 
+* OracleDB
+* Web Frameworks:
+* Angular 
+* Django 
+* Ionic
+Technology:
+* Machine Learning 
+* Deep learning
+* Blockchain 
+* Web Development 
+* UI Design 
+* Ethical Hacking
+* Actions on Google
+* Cloud Functions
+* Firebase
+- 📫 How to reach me: [email](antonyjm462@gmail.com) 
+- ⚡ Fun fact: I work on a wide variety of interesting and meaningful projects on a daily basis.
