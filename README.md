@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Antony 
+# Hi there 👋 I'm Antony 
 I'm a final year computer science and engineering student based in India, Kerala specializing in developing (and occasionally designing :wink: ) exceptional Cross-Platform applications, Google Action applications, and everything in between. also interested in Ethical Hacking, Blockchain, Artificial Intelligence.
 
 - 🔭 I’m currently working on Javascript Microservices Architecture
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about: 
-# Programming And Markup Languages: 
+### Programming And Markup Languages: 
 * Python
 * C 
 * JavaScript 
@@ -13,7 +13,7 @@ I'm a final year computer science and engineering student based in India, Kerala
 * HTML
 * CSS
 * PHP
-# Database:
+### Database:
 * MySql/MariaDB 
 * MongoDB 
 * OracleDB
@@ -21,7 +21,7 @@ I'm a final year computer science and engineering student based in India, Kerala
 * Angular 
 * Django 
 * Ionic
-# Technology:
+### Technology:
 * Machine Learning 
 * Deep learning
 * Blockchain 
