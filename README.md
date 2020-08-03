@@ -4,7 +4,7 @@ I'm a final year computer science and engineering student based in India, Kerala
 - 🔭 I’m currently working on Javascript Microservices Architecture
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about: 
-Programming And Markup Languages: 
+# Programming And Markup Languages: 
 * Python
 * C 
 * JavaScript 
@@ -13,7 +13,7 @@ Programming And Markup Languages:
 * HTML
 * CSS
 * PHP
-Database:
+# Database:
 * MySql/MariaDB 
 * MongoDB 
 * OracleDB
@@ -21,7 +21,7 @@ Database:
 * Angular 
 * Django 
 * Ionic
-Technology:
+# Technology:
 * Machine Learning 
 * Deep learning
 * Blockchain 
@@ -31,5 +31,5 @@ Technology:
 * Actions on Google
 * Cloud Functions
 * Firebase
-- 📫 How to reach me: [email](antonyjm462@gmail.com) 
+- 📫 How to reach me: [email](mailto:antonyjm462@gmail.com) 
 - ⚡ Fun fact: I work on a wide variety of interesting and meaningful projects on a daily basis.
