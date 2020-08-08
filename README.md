@@ -31,5 +31,5 @@ I'm a final year computer science and engineering student based in India, Kerala
 * Actions on Google
 * Cloud Functions
 * Firebase
-- 📫 How to reach me: [Email :email:](mailto:antonyjm462@gmail.com) [Linkedin :link:](linkedin.com/in/antonyjmalakkaran) [Blog :newspaper:](blog.antonyjmalakkaran.codes)
+- 📫 How to reach me: [Email :email:](mailto:antonyjm462@gmail.com) [Linkedin :link:](linkedin.com/in/antonyjmalakkaran) [Blog :newspaper:](https://blog.antonyjmalakkaran.codes/)
 - ⚡ Fun fact: I work on a wide variety of interesting and meaningful projects on a daily basis.
