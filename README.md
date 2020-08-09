@@ -10,7 +10,6 @@ I'm a final year computer science and engineering student based in India, Kerala
 - 💬 Ask me about:
 
 <img src ="https://img.shields.io/badge/-Programming And Markup Languages-red?&style=for-the-badge">
-<br>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
@@ -19,35 +18,24 @@ I'm a final year computer science and engineering student based in India, Kerala
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-<img src ="https://img.shields.io/badge/-USES PHP-brightgreen?&style=for-the-badge&logo=&logoColor=Violet">
+[<img src ="https://img.shields.io/badge/-USES PHP-brightgreen?&style=for-the-badge&logo=&logoColor=Violet">]()
 
 <img src ="https://img.shields.io/badge/-Database-red?&style=for-the-badge">
-<br>
-<img src ="https://img.shields.io/badge/-MySql MariaDB -blue?&style=for-the-badge">
-<img src ="https://img.shields.io/badge/-MongoDB -blue?&style=for-the-badge">
-<img src ="https://img.shields.io/badge/-OracleDB-blue?&style=for-the-badge">
-<br>
+
+[<img src ="https://img.shields.io/badge/-MySql MariaDB -blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-MongoDB -blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-OracleDB-blue?&style=for-the-badge">]()
 <img src ="https://img.shields.io/badge/-Web Frameworks-red?&style=for-the-badge">
-<br>
-<img src ="https://img.shields.io/badge/-Angular-blue?&style=for-the-badge">
-<img src ="https://img.shields.io/badge/-Django-blue?&style=for-the-badge">
-<img src ="https://img.shields.io/badge/-Ionic-blue?&style=for-the-badge">
 
-<br>
+[<img src ="https://img.shields.io/badge/-Angular-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Django-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Ionic-blue?&style=for-the-badge">]()
 <img src ="https://img.shields.io/badge/-Technology-red?&style=for-the-badge">
-<br>
-<img src ="https://img.shields.io/badge/-Blockchain-blue?&style=for-the-badge">
-<img src ="https://img.shields.io/badge/-UI Design-blue?&style=for-the-badge">
-<img src ="https://img.shields.io/badge/-Ethical Hacking-blue?&style=for-the-badge">
-<img src ="https://img.shields.io/badge/-Google Assistant-blue?&style=for-the-badge">
 
-### Technology:
-
-* Blockchain 
-* Web Development 
-* UI Design 
-* Ethical Hacking
-* Google Assistant
+[<img src ="https://img.shields.io/badge/-Blockchain-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-UI Design-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Ethical Hacking-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Google Assistant-blue?&style=for-the-badge">]()
 
 - 📫 How to reach me: [Email :email:](mailto:antonyjm462@gmail.com)
 - ⚡ Fun fact: I work on a wide variety of interesting and meaningful projects on a daily basis.
