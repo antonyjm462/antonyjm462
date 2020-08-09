@@ -35,14 +35,14 @@ I'm a final year computer science and engineering student based in India, Kerala
 * Actions on Google
 * Cloud Functions
 * Firebase
-- 📫 How to reach me: [Email :email:](mailto:antonyjm462@gmail.com) [Linkedin :link:](linkedin.com/in/antonyjmalakkaran) [Blog :newspaper:](https://blog.antonyjmalakkaran.codes/)
+- 📫 How to reach me: [Email :email:](mailto:antonyjm462@gmail.com)
 - ⚡ Fun fact: I work on a wide variety of interesting and meaningful projects on a daily basis.
 
-You can connect with me here,
+You can connect with me here also,
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/antonyjmalakkaran/)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://antonyjmalakkaran.codes/)
-[<img src ="https://img.shields.io/badge/blog-%23.svg?&style=for-the-badge&logo=&logoColor=Violet">](https://antonyjmalakkaran.codes/)
+[<img src ="https://img.shields.io/badge/blog-%23.svg?&style=for-the-badge&logo=&logoColor=Violet">](https://blog.antonyjmalakkaran.codes/)
 [<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/8921297283)
 
 [![Antony J Malakkaran's github stats](https://github-readme-stats.vercel.app/api?username=antonyjm462)](https://github.com/antonyjm462/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyjm462&layout=compact&hide=html" alt="antonyjm462" />
