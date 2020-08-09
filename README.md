@@ -25,11 +25,13 @@ I'm a final year computer science and engineering student based in India, Kerala
 [<img src ="https://img.shields.io/badge/-MySql MariaDB -blue?&style=for-the-badge">]()
 [<img src ="https://img.shields.io/badge/-MongoDB -blue?&style=for-the-badge">]()
 [<img src ="https://img.shields.io/badge/-OracleDB-blue?&style=for-the-badge">]()
+
 <img src ="https://img.shields.io/badge/-Web Frameworks-red?&style=for-the-badge">
 
 [<img src ="https://img.shields.io/badge/-Angular-blue?&style=for-the-badge">]()
 [<img src ="https://img.shields.io/badge/-Django-blue?&style=for-the-badge">]()
 [<img src ="https://img.shields.io/badge/-Ionic-blue?&style=for-the-badge">]()
+
 <img src ="https://img.shields.io/badge/-Technology-red?&style=for-the-badge">
 
 [<img src ="https://img.shields.io/badge/-Blockchain-blue?&style=for-the-badge">]()
