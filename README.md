@@ -7,34 +7,48 @@ I'm a final year computer science and engineering student based in India, Kerala
 
 - 🔭 My area of interest is in Machine Learning.
 - 🌱 I’m currently learning React.js
-- 💬 Ask me about: 
-### Programming And Markup Languages: 
-* Python
-* C 
-* JavaScript 
-* TypeScript
-* Java 
-* HTML
-* CSS
-* PHP
-### Database:
-* MySql/MariaDB 
-* MongoDB 
-* OracleDB
-* Web Frameworks:
-* Angular 
-* Django 
-* Ionic
+- 💬 Ask me about:
+
+<img src ="https://img.shields.io/badge/-Programming And Markup Languages-red?&style=for-the-badge">
+<br>
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+<img src ="https://img.shields.io/badge/-USES PHP-brightgreen?&style=for-the-badge&logo=&logoColor=Violet">
+
+<img src ="https://img.shields.io/badge/-Database-red?&style=for-the-badge">
+<br>
+<img src ="https://img.shields.io/badge/-MySql MariaDB -blue?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-MongoDB -blue?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-OracleDB-blue?&style=for-the-badge">
+<br>
+<img src ="https://img.shields.io/badge/-Web Frameworks-red?&style=for-the-badge">
+<br>
+<img src ="https://img.shields.io/badge/-Angular-blue?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-Django-blue?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-Ionic-blue?&style=for-the-badge">
+
+<br>
+<img src ="https://img.shields.io/badge/-Technology-red?&style=for-the-badge">
+<br>
+<img src ="https://img.shields.io/badge/-Blockchain-blue?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-UI Design-blue?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-Ethical Hacking-blue?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-Google Assistant-blue?&style=for-the-badge">
+
 ### Technology:
-* Machine Learning 
-* Deep learning
+
 * Blockchain 
 * Web Development 
 * UI Design 
 * Ethical Hacking
-* Actions on Google
-* Cloud Functions
-* Firebase
+* Google Assistant
+
 - 📫 How to reach me: [Email :email:](mailto:antonyjm462@gmail.com)
 - ⚡ Fun fact: I work on a wide variety of interesting and meaningful projects on a daily basis.
 
