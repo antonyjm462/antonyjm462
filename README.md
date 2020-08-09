@@ -1,8 +1,12 @@
 # Hi there 👋 I'm Antony 
+<br>
+<center><img src="./circle.png" height="300"> </center>
+<br>
 I'm a final year computer science and engineering student based in India, Kerala specializing in developing (and occasionally designing :wink: ) exceptional Cross-Platform applications, Google Action applications, and everything in between. also interested in Ethical Hacking, Blockchain, Machine Learning.
 
 [![Repos Badge](https://badges.pufler.dev/repos/antonyjm462)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/antonyjm462)](https://badges.pufler.dev)
+
 
 - 🔭 My area of interest is in Machine Learning.
 - 🌱 I’m currently learning React.js
@@ -21,22 +25,22 @@ I'm a final year computer science and engineering student based in India, Kerala
 
 <img src ="https://img.shields.io/badge/-Database-red?&style=for-the-badge">
 
-[<img src ="https://img.shields.io/badge/-MySql MariaDB -blue?&style=for-the-badge">]()
-[<img src ="https://img.shields.io/badge/-MongoDB -blue?&style=for-the-badge">]()
-[<img src ="https://img.shields.io/badge/-OracleDB-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-MySql MariaDB -yellow?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-MongoDB -green?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-OracleDB-darkred?&style=for-the-badge">]()
 
-<img src ="https://img.shields.io/badge/-Web Frameworks-red?&style=for-the-badge">
+<img src ="https://img.shields.io/badge/-Web Frameworks-darkblue?&style=for-the-badge">
 
-[<img src ="https://img.shields.io/badge/-Angular-blue?&style=for-the-badge">]()
-[<img src ="https://img.shields.io/badge/-Django-blue?&style=for-the-badge">]()
-[<img src ="https://img.shields.io/badge/-Ionic-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Angular-red?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Django-greenyellow?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Ionic-lightblue?&style=for-the-badge">]()
 
 <img src ="https://img.shields.io/badge/-Technology-red?&style=for-the-badge">
 
-[<img src ="https://img.shields.io/badge/-Blockchain-blue?&style=for-the-badge">]()
-[<img src ="https://img.shields.io/badge/-UI Design-blue?&style=for-the-badge">]()
-[<img src ="https://img.shields.io/badge/-Ethical Hacking-blue?&style=for-the-badge">]()
-[<img src ="https://img.shields.io/badge/-Google Assistant-blue?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Blockchain-success?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-UI Design-black?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Ethical Hacking-grey?&style=for-the-badge">]()
+[<img src ="https://img.shields.io/badge/-Google Assistant-orange?&style=for-the-badge">]()
 
 - 📫 How to reach me: [Email :email:](mailto:antonyjm462@gmail.com)
 - ⚡ Fun fact: I work on a wide variety of interesting and meaningful projects on a daily basis.
