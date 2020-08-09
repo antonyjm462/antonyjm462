@@ -1,12 +1,11 @@
 # Hi there 👋 I'm Antony 
 <br>
-<center><img src="https://github.com/antonyjm462/antonyjm462/blob/master/circle.png" height="300"> </center>
+<p align="center"> <img src="https://github.com/antonyjm462/antonyjm462/blob/master/circle.png" height="300"> </p>
 <br>
 I'm a final year computer science and engineering student based in India, Kerala specializing in developing (and occasionally designing :wink: ) exceptional Cross-Platform applications, Google Action applications, and everything in between. also interested in Ethical Hacking, Blockchain, Machine Learning.
 
 [![Repos Badge](https://badges.pufler.dev/repos/antonyjm462)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/antonyjm462)](https://badges.pufler.dev)
-
 
 - 🔭 My area of interest is in Machine Learning.
 - 🌱 I’m currently learning React.js
