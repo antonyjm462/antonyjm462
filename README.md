@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Antony 
 <br>
 <p align="left"> <img src="https://github.com/antonyjm462/antonyjm462/blob/master/logo.png" height="300"> </p>
-<br>
+<p align="right">
 I'm a final year computer science and engineering student based in India, Kerala specializing in developing (and occasionally designing :wink: ) exceptional Cross-Platform applications, Google Action applications, and everything in between. also interested in Ethical Hacking, Blockchain, Machine Learning.
 
 [![Repos Badge](https://badges.pufler.dev/repos/antonyjm462)](https://badges.pufler.dev)
