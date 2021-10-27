@@ -1,20 +1,3 @@
-<style>
-    .row {
-  display: flex;
-}
-
-.col {
-  flex: 50%;
-}
-
-.col-2 {
-  flex: 70%;
-}
-
-.col-1 {
-  flex: 40%;
-}
-</style>
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Antony 
 <div class="row"> 
 <div class="col"> <p> <img src="https://github.com/antonyjm462/antonyjm462/blob/master/logo.png" height="300"></p></div>
