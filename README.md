@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Antony 
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Antony](https://antonyjm462.github.io/)
 <div class="row"> 
 <div class="col"> <p> <img src="https://github.com/antonyjm462/antonyjm462/blob/master/logo.png" height="300"></p></div>
 <div class="col"> <p> 
@@ -9,6 +9,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - 👔 Software Enginner at Incture Technologies
+- 📖 Blogging as a Developer @ [Blog](https://antonyjm462.github.io/blog)
 - 🔭 My area of interest is in Machine Learning.
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: [Email 📥](mailto:antonyjm462@gmail.com)
