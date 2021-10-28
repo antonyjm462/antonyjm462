@@ -9,7 +9,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - 👔 Software Enginner at Incture Technologies
-- 📖 Blogging as a Developer @ [Blog](https://antonyjm462.github.io/blog)
+- 📖 Blogging as a Developer @ [Blog](https://antonyjmblog.github.io/)
 - 🔭 My area of interest is in Machine Learning.
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: [Email 📥](mailto:antonyjm462@gmail.com)
@@ -18,7 +18,7 @@ You can connect with me here also,
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/antonyjmalakkaran/)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://antonyjm462.github.io/)
-[<img src ="https://img.shields.io/badge/blog-%23.svg?&style=for-the-badge&logo=&logoColor=Violet">](https://antonyjm462.github.io/blog)
+[<img src ="https://img.shields.io/badge/blog-%23.svg?&style=for-the-badge&logo=&logoColor=Violet">](https://antonyjmblog.github.io/)
 
 
 </p> </div>
