@@ -17,8 +17,8 @@
 You can connect with me here also,
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/antonyjmalakkaran/)
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://antonyjmalakkaran.codes/)
-[<img src ="https://img.shields.io/badge/blog-%23.svg?&style=for-the-badge&logo=&logoColor=Violet">](https://blog.antonyjmalakkaran.codes/)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://antonyjm462.github.io/)
+[<img src ="https://img.shields.io/badge/blog-%23.svg?&style=for-the-badge&logo=&logoColor=Violet">](https://antonyjm462.github.io/blog)
 
 
 </p> </div>
